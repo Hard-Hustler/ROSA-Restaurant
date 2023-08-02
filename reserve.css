@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  header {
+    background-color: #bc780c;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 40px;
+    border-radius: 10px;
+  }
+  
+  main {
+    padding: 40px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  section {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 97.4%;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    width: 100%;
+    background-color: #bc780c;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #a96700;;
+  }
+  
+  /* Add your own custom styling here to make it more visually appealing */
+  
+  
